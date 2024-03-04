@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Act8Hi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Act8Hi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\css\\MiHistoria.css",
+      "PackagePath": "staticwebassets\\css\\MiHistoria.css"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\images\\descarga.jpg",
+      "PackagePath": "staticwebassets\\images\\descarga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\images\\naturaleza.jpg",
+      "PackagePath": "staticwebassets\\images\\naturaleza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Estudiante\\Desktop\\Act8Hi\\Act8Hi\\Act8Hi\\wwwroot\\images\\telema.jpg",
+      "PackagePath": "staticwebassets\\images\\telema.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Act8Hi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Act8Hi.props",
+      "PackagePath": "build\\Act8Hi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Act8Hi.props",
+      "PackagePath": "buildMultiTargeting\\Act8Hi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Act8Hi.props",
+      "PackagePath": "buildTransitive\\Act8Hi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
